@@ -1,4 +1,4 @@
-package FactoryPattern;
+package CreationalPattern.factoryPattern;
 
 public class Rectangle implements Shape {
     @Override

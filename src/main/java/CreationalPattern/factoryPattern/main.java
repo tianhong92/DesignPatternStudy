@@ -1,4 +1,4 @@
-package FactoryPattern;
+package CreationalPattern.factoryPattern;
 
 // 创建对象不用向客户端暴露创建逻辑， 通过一个公共接口指向新创建的对象
 public class main {
